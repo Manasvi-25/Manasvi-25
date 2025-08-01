@@ -11,12 +11,16 @@ Beyond tech, I love working with people and for people. Whether it’s helping f
 In my free time, you’ll probably find me writing fiction and poetry, sketching, or playing puzzle games like Nerdle and its quirky spin-offs.
 
 # 🛠 Tech Stack:
+
 Technical skills and Languages: Java, Python, SQL, JavaScript, HTML/CSS, R
+
 Developer Tools: Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Jupyter Notebook, Google Colab
+
 Libraries:Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Keras, TensorFlow, OpenCV, Hugging Face, Pickle, Pillow
 
 # 📫 How to Reach Me:
 
 Email:manasvi.bhatnagar@stonybrook.edu 
+
 Linkedin: https://www.linkedin.com/in/manasvi25/
 
