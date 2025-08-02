@@ -10,12 +10,16 @@ In my free time, you’ll probably find me writing fiction and poetry, sketching
 
 # 🎯 Featured Project: WorkTimely – A Personal Productivity Companion
 What I’m Building: Started as a basic stopwatch in Java (June 2025), now evolving into a Pomodoro timer + aesthetic daily planner that mimics the feel of paper journals but with smarter features.
+
 Tools: Java, Java Swing, OOP, GUI Design
+
 Current Progress:
 – Built a working stopwatch with start/stop/reset and a clean Swing interface
 – Working on adding Pomodoro mode and a simple task planner
 – Focused on making the UX warm, personal, and not robotic
-Curious? Check out the project here 
+
+Curious? Check out the project here: https://github.com/Manasvi-25/WorkTimely
+
 
 # 🛠 Tech Stack:
 
