@@ -1,5 +1,4 @@
 ## 👋 Hi I'm Manasvi :) 
-Computer Science Student at Stony Brook University 
 
 # ✨About me:
 Hi, I’m Manasvi, a Computer Science student at Stony Brook University with a passion for problem-solving, collaboration, and building technology that makes life better.
