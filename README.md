@@ -14,6 +14,7 @@ What I’m Building: Started as a basic stopwatch in Java (June 2025), now evolv
 Tools: Java, Java Swing, OOP, GUI Design
 
 Current Progress:
+
 – Built a working stopwatch with start/stop/reset and a clean Swing interface
 
 –Working on adding Pomodoro mode and a simple task planner
