@@ -15,7 +15,9 @@ Tools: Java, Java Swing, OOP, GUI Design
 
 Current Progress:
 – Built a working stopwatch with start/stop/reset and a clean Swing interface
-– Working on adding Pomodoro mode and a simple task planner
+
+–Working on adding Pomodoro mode and a simple task planner
+
 – Focused on making the UX warm, personal, and not robotic
 
 Curious? Check out the project here: https://github.com/Manasvi-25/WorkTimely
