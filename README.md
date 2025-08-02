@@ -1,7 +1,6 @@
 ## 👋 Hi I'm Manasvi :) 
 
-# ✨About me:
-Hi, I’m Manasvi, a Computer Science student at Stony Brook University with a passion for problem-solving, collaboration, and building technology that makes life better.
+ a Computer Science student at Stony Brook University with a passion for problem-solving, collaboration, and building technology that makes life better.
 
 I’m currently exploring software engineering, AI, and machine learning. As an AI/ML Fellow at Break Through Tech AI @ Cornell, I’m gaining hands-on experience working with real-world datasets and tools. I'm especially interested in building impactful projects--from accessibility tools and education tech to mental health apps and platforms for social good. If it helps people, improves systems, or lets me do the work I love while fitting my vibe, I want to build it.
 
