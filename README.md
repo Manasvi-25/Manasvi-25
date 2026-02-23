@@ -8,27 +8,12 @@ Beyond tech, I love working with people and for people. Whether it’s helping f
 
 In my free time, you’ll probably find me writing fiction and poetry, sketching, or playing puzzle games like Nerdle and its quirky spin-offs.
 
-# 🎯 Featured Project: WorkTimely – A Personal Productivity Companion
-What I’m Building: Started as a basic stopwatch in Java (June 2025), now evolving into a Pomodoro timer + aesthetic daily planner that mimics the feel of paper journals but with smarter features.
-
-Tools: Java, Java Swing, OOP, GUI Design
-
-Current Progress:
-
-– Built a working stopwatch with start/stop/reset and a clean Swing interface
-
-–Working on adding Pomodoro mode and a simple task planner
-
-– Focused on making the UX warm, personal, and not robotic
-
-Curious? Check out the project here: https://github.com/Manasvi-25/WorkTimely
-
 
 # 🛠 Tech Stack:
 
-Technical skills and Languages: Java, Python, SQL, JavaScript, HTML/CSS, R
+Technical skills and Languages: Python, SQL, R, Java, JavaScript, C, HTML/CSS, React, React Native, Node.js, Tailwind CSS
 
-Developer Tools: Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Jupyter Notebook, Google Colab
+Developer Tools: Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Jupyter Notebook, Google Colab, Linux
 
 Libraries:Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Keras, TensorFlow, OpenCV, Hugging Face, Pickle, Pillow
 
